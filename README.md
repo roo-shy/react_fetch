@@ -9,6 +9,4 @@ The Giphy API can be called using the following URL: http://api.giphy.com/v1/gif
   
 * Setting the state of the React component to the images array from Giphy
 
-
-
-
+http://jsbin.com/diqoda/edit?js,output
